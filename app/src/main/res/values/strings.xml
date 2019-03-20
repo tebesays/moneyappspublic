@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoneyApps</string>
+    <string-array name="pilih">
+        <item>Pemasukan</item>
+        <item>Pengeluaran</item>
+    </string-array>
+</resources>
